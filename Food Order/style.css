@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    color: white;
+    background-color: black;
+    
+}
+li{
+    display:inline
+    
+}
+
+h1{
+    padding-bottom: 20px;
+}
+ul{
+    color: grey;
+}
+li:hover{
+    color: white;
+    cursor: pointer;
+}
+
+
+.box{
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    display: inline-block;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.receipe{
+    text-align: center;
+    
+}
+
+.contact{
+    padding-top: 20px;
+    margin-top: 20px;
+    color: white;
+    background-color: black
+    
+}
+
+.form{
+    color: white;
+}
+
+.color{
+    color: white;
+}
+
